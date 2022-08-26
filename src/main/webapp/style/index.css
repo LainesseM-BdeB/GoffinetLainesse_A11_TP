@@ -1,0 +1,6 @@
+.main-container {
+    display: flex;
+    flex-flow: row;
+    flex-direction: row;
+    justify-content: center;
+}
